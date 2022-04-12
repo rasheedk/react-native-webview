@@ -87,5 +87,8 @@
     "index.d.ts",
     "react-native-webview.podspec",
     "react-native.config.js"
-  ]
+  ],
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com"
+},
 }
